@@ -1,7 +1,7 @@
 from microbit import *
 
 #Created By: your name
-#Created on: 
+#Created on: Sept. 2020
 
 #This program: Uses Servo
 
